@@ -1,2 +1,0 @@
-# hsymingt.github.io
-README
